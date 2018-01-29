@@ -1,0 +1,14 @@
+uuid: e28d58e2-fcf2-4f7a-b68f-9b9e676247e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jlashomb@stlawu.edu
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
